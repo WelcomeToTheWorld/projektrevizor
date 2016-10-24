@@ -1,1 +1,1 @@
-# projektrevizor
+Projekt uživatelské spolupráce pro oznamování pozic revizorů v metru Prahy
